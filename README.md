@@ -19,7 +19,7 @@ I'm a dedicated professional contributing my skills and expertise at [Mezino](ht
 
 <!-- Connect with me -->
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/hassanraza023/)
+- [LinkedIn](https://www.linkedin.com/in/hassanraza043/)
 - [Personal Website](https://linktr.ee/imhraza023)
 - Email: imhraza023@gmail.com & bitf19a023@gmail.com
 
