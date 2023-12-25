@@ -3,7 +3,7 @@
 #### Passionate IT Professional at Mezino | Innovator & Lifelong Learner
 
 <!-- Add an introduction about yourself -->
-I'm a dedicated professional contributing my skills and expertise at [Mezino](https://www.mezino.com/). With a solid educational foundation, including a Bachelor's degree in Information Technology from [PUCIT](https://www.pucit.edu.pk/), and completion of Inter in Computer Science from [Superior College](https://www.superiorcolleges.edu.pk/), I've developed a profound understanding of the technology landscape.
+I'm a dedicated professional contributing my skills and expertise at [Redmath](https://www.redmath.com/) partner company of [Mezino](https://www.mezino.com/). With a solid educational foundation, including a Bachelor's degree in Information Technology from [PUCIT](https://www.pucit.edu.pk/), and completion of Inter in Computer Science from [Superior College](https://www.superiorcolleges.edu.pk/), I've developed a profound understanding of the technology landscape.
 
 <!-- Highlight your skills or technologies -->
 ## 🔧 Expertise & Technologies
