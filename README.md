@@ -1,8 +1,9 @@
 <!-- Header with Typing Effect -->
 <h1 align="center">Hi, I'm Hassan Raza 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3CAC&center=true&vCenter=true&width=500&lines=🚀+IT+Professional+@+Mezino;💡+Innovator+%26+Lifelong+Learner;☕+Java+Enthusiast+%7C+Spring+Boot+Dev;📚+Passionate+about+Knowledge+Sharing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF3CAC&center=true&vCenter=true&width=600&lines=IT+Professional+%40+Mezino;Innovator+%26+Lifelong+Learner;Java+Enthusiast+%7C+Spring+Boot+Dev;Passionate+about+Knowledge+Sharing" alt="Typing Animation" />
 </p>
+
 
 ---
 
