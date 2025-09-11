@@ -66,15 +66,11 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
       <a href="https://github.com/Raza023/BankApp">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=BankApp&theme=radical&cache_bust=1" />
       </a>
-      <br/>
-      <b>💳 Bank App - Secure banking system with Spring Boot & JWT</b>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Raza023/NewsDaily">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=NewsDaily&theme=radical&cache_bust=1" />
       </a>
-      <br/>
-      <b>📰 NewsDaily - Real-time news feed app with APIs</b>
     </td>
   </tr>
 </table>
@@ -85,15 +81,11 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
       <a href="https://github.com/Raza023/SpringBoot">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=SpringBoot&theme=radical&cache_bust=1" />
       </a>
-      <br/>
-      <b>🌱 SpringBoot - Mini projects & demos with Spring Boot 3.x</b>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Raza023/courseshare">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=courseshare&theme=radical&cache_bust=1" />
       </a>
-      <br/>
-      <b>📚 CourseShare - Platform for sharing & managing courses</b>
     </td>
   </tr>
 </table>
@@ -104,15 +96,11 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
       <a href="https://github.com/Raza023/QuranReader">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=QuranReader&theme=radical&cache_bust=1" />
       </a>
-      <br/>
-      <b>📖 QuranReader - Interactive Quran web app with translations</b>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Raza023/Browser">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=Browser&theme=radical&cache_bust=1" />
       </a>
-      <br/>
-      <b>🌐 Browser - Lightweight custom-built browser</b>
     </td>
   </tr>
 </table>
