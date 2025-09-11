@@ -123,12 +123,12 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 
 ## 📊 GitHub Stats  
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center">
   <tr>
-    <td>
+    <td style="border:none;">
       <img src="https://github-readme-stats.vercel.app/api?username=Raza023&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" height="165"/>
     </td>
-    <td>
+    <td style="border:none;">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Raza023&theme=radical&hide_border=false" alt="GitHub Streak" height="165"/>
     </td>
   </tr>
