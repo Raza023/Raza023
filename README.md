@@ -158,5 +158,5 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="50">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif" width="50">
-  <img src="https://freegifimg.com/download/medals/520623-medal-download-free-image.gif" width="50">
+  <img src="https://i.gifer.com/X11M.gif" width="50">
 </p>
