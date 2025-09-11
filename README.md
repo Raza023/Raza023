@@ -63,14 +63,14 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=bank-app&theme=radical" />
       </a>
       <br/>
-      <b>💳 Bank App - <sub>Secure banking system with Spring Boot & JWT</sub> </b>
+      <b>💳 Bank App - Secure banking system with Spring Boot & JWT</b>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Raza023/NewsDaily">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=NewsDaily&theme=radical" />
       </a>
       <br/>
-      <b>📰 NewsDaily - <sub>Real-time news feed app with APIs</sub></b>
+      <b>📰 NewsDaily - Real-time news feed app with APIs</b>
     </td>
   </tr>
 </table>
@@ -84,16 +84,14 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=SpringBoot&theme=radical" />
       </a>
       <br/>
-      <b>🌱 SpringBoot</b>  
-      <sub>Mini projects & demos with Spring Boot 3.x</sub>
+      <b>🌱 SpringBoot - Mini projects & demos with Spring Boot 3.x</b>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Raza023/courseshare">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=courseshare&theme=radical" />
       </a>
       <br/>
-      <b>📚 CourseShare</b>  
-      <sub>Platform for sharing & managing courses</sub>
+      <b>📚 CourseShare - Platform for sharing & managing courses</b>
     </td>
   </tr>
 </table>
@@ -107,16 +105,14 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=QuranReader&theme=radical" />
       </a>
       <br/>
-      <b>📖 QuranReader</b>  
-      <sub>Interactive Quran web app with translations</sub>
+      <b>📖 QuranReader - Interactive Quran web app with translations</b>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Raza023/Browser">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=Browser&theme=radical" />
       </a>
       <br/>
-      <b>🌐 Browser</b>  
-      <sub>Lightweight custom-built browser</sub>
+      <b>🌐 Browser - Lightweight custom-built browser</b>
     </td>
   </tr>
 </table>
