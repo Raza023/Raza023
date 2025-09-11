@@ -83,7 +83,7 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Raza023/SpringBoot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=SpringBoot&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=SpringBoot&theme=radical&show_owner=true&cache_bust=1" />
       </a>
       <br/>
       <b>🌱 SpringBoot - Mini projects & demos with Spring Boot 3.x</b>
