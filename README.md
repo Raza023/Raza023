@@ -125,10 +125,10 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 
 <table align="center">
   <tr>
-    <td style="border:none;">
+    <td style="padding:0;">
       <img src="https://github-readme-stats.vercel.app/api?username=Raza023&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" height="165"/>
     </td>
-    <td style="border:none;">
+    <td style="padding:0;">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Raza023&theme=radical&hide_border=false" alt="GitHub Streak" height="165"/>
     </td>
   </tr>
