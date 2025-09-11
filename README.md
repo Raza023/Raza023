@@ -55,11 +55,7 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 ## 🚀 Featured Projects  
 
 ✨ A curated collection of my best repositories showcasing **backend, frontend, cloud, and full-stack projects**.  
-
-<details>
-  <summary>📌 Open to View Projects</summary>
   <br/>
-
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
@@ -98,8 +94,6 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
     </td>
   </tr>
 </table>
-
-</details>
 
 ---
 
