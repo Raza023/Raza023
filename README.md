@@ -123,10 +123,16 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 
 ## 📊 GitHub Stats  
 
-<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raza023&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" style="height:165px; width:auto; max-width:100%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Raza023&theme=radical&hide_border=false" alt="GitHub Streak" style="height:165px; width:auto; max-width:100%;" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Raza023&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" height="165"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Raza023&theme=radical&hide_border=false" alt="GitHub Streak" height="165"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raza023&bg_color=141321&color=FF3CAC&line=DD2476&point=F9D423&area=true&hide_border=true" alt="Activity Graph" />
