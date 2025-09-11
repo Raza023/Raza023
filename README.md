@@ -52,6 +52,13 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 <!-- Pinned Projects Showcase -->
 ## 🚀 Featured Projects  
 
+---
+
+<!-- Pinned Projects Showcase -->
+## 🚀 Featured Projects  
+
+✨ A curated collection of my best repositories showcasing **backend, frontend, cloud, and full-stack projects**.  
+
 <p align="center">
   <a href="https://github.com/Raza023/bank-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=bank-app&theme=radical" />
@@ -60,6 +67,13 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=NewsDaily&theme=radical" />
   </a>
 </p>
+
+<p align="center">
+  <sub>💳 Bank App – Secure banking system with Spring Boot & JWT</sub> | 
+  <sub>📰 NewsDaily – Real-time news feed app with APIs</sub>
+</p>
+
+---
 
 <p align="center">
   <a href="https://github.com/Raza023/SpringBoot">
@@ -71,12 +85,24 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 </p>
 
 <p align="center">
+  <sub>🌱 SpringBoot – Mini projects & demos with Spring Boot 3.x</sub> | 
+  <sub>📚 CourseShare – Platform for sharing & managing courses</sub>
+</p>
+
+---
+
+<p align="center">
   <a href="https://github.com/Raza023/QuranReader">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=QuranReader&theme=radical" />
   </a>
   <a href="https://github.com/Raza023/Browser">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=Browser&theme=radical" />
   </a>
+</p>
+
+<p align="center">
+  <sub>📖 QuranReader – Interactive Quran web app with translations</sub> | 
+  <sub>🌐 Browser – Lightweight custom-built browser</sub>
 </p>
 
 ---
