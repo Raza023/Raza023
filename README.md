@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=600&color=1E90FF&center=true&vCenter=true&width=700&lines=IT+Professional+@+Mezino;Contributor+at+Redmath;Innovator+and+Lifelong+Learner;Java+%26+Spring+Boot+Developer;Passionate+about+Knowledge+Sharing;Exploring+Cloud+%7C+AI+%7C+Full-Stack+Development" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=600&color=1E90FF&center=true&vCenter=true&width=700&lines=IT+Professional+@+Mezino;Contributor+at+Redmath;Innovator+and+Lifelong+Learner;Java+%26+Spring+Boot+Developer;Passionate+about+Knowledge+Sharing" alt="Typing Animation" />
 </p>
 
 ---
@@ -134,6 +134,14 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 
 ---
 
+## 🏆 Achievements & Extras  
+
+![Profile Views](https://komarev.com/ghpvc/?username=Raza023&color=blueviolet&style=flat-square)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raza023&layout=compact&theme=radical&hide=css,html)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Raza023&theme=radical&no-frame=true&margin-w=15&margin-h=15)  
+
+---
+
 ## 🌐 Connect with Me  
 
 <p align="center">
@@ -141,14 +149,6 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
   <a href="https://linktr.ee/imhraza023"><img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=linktree&logoColor=white"/></a>
   <a href="mailto:imhraza023@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
----
-
-## 🏆 Achievements & Extras  
-
-![Profile Views](https://komarev.com/ghpvc/?username=Raza023&color=blueviolet&style=flat-square)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Raza023&theme=radical&no-frame=true&margin-w=15&margin-h=15)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raza023&layout=compact&theme=radical&hide=css,html)
 
 ---
 
