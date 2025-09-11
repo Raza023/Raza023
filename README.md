@@ -73,9 +73,6 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
       </a>
     </td>
   </tr>
-</table>
-
-<table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Raza023/SpringBoot">
@@ -88,9 +85,6 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
       </a>
     </td>
   </tr>
-</table>
-
-<table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Raza023/QuranReader">
