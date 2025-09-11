@@ -55,27 +55,36 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 ---
 
 <!-- Pinned Projects Showcase -->
-## 🚀 Featured Projects  
-
-✨ A curated collection of my best repositories showcasing **backend, frontend, cloud, and full-stack projects**.  
+<h2 align="center">🚀 Featured Projects</h2>  
 
 <p align="center">
-  <a href="https://github.com/Raza023/bank-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=bank-app&theme=radical" />
-    <p align="center">
-      <sub>💳 Bank App – Secure banking system with Spring Boot & JWT</sub>
-    </p>
-  </a>
-  <a href="https://github.com/Raza023/NewsDaily">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=NewsDaily&theme=radical" />
-    <p align="center">
-      <sub>📰 NewsDaily – Real-time news feed app with APIs</sub>
-    </p>
-  </a>
+  ✨ A curated selection of my top repositories showcasing **Backend**, **Frontend**, **Cloud**, and **Full-Stack** development skills.  
 </p>
 
 ---
 
+<!-- Row 1 -->
+<p align="center">
+  <a href="https://github.com/Raza023/bank-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=bank-app&theme=radical" />
+  </a>
+  <a href="https://github.com/Raza023/NewsDaily">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=NewsDaily&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💳-Bank%20App-blueviolet?style=for-the-badge" />  
+  <sub><b>Secure Banking System</b> built with <b>Spring Boot & JWT</b></sub>  
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/📰-NewsDaily-orange?style=for-the-badge" />  
+  <sub><b>Real-time News Feed</b> app powered by <b>REST APIs</b></sub>  
+</p>
+
+---
+
+<!-- Row 2 -->
 <p align="center">
   <a href="https://github.com/Raza023/SpringBoot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=SpringBoot&theme=radical" />
@@ -86,12 +95,17 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 </p>
 
 <p align="center">
-  <sub>🌱 SpringBoot – Mini projects & demos with Spring Boot 3.x</sub> | 
-  <sub>📚 CourseShare – Platform for sharing & managing courses</sub>
+  <img src="https://img.shields.io/badge/🌱-SpringBoot-green?style=for-the-badge" />  
+  <sub>Collection of <b>Spring Boot 3.x demos & mini projects</b></sub>  
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/📚-CourseShare-yellow?style=for-the-badge" />  
+  <sub><b>Learning Platform</b> for sharing & managing courses</sub>  
 </p>
 
 ---
 
+<!-- Row 3 -->
 <p align="center">
   <a href="https://github.com/Raza023/QuranReader">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=QuranReader&theme=radical" />
@@ -102,8 +116,12 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 </p>
 
 <p align="center">
-  <sub>📖 QuranReader – Interactive Quran web app with translations</sub> | 
-  <sub>🌐 Browser – Lightweight custom-built browser</sub>
+  <img src="https://img.shields.io/badge/📖-QuranReader-teal?style=for-the-badge" />  
+  <sub><b>Interactive Quran Web App</b> with translations & word-by-word study</sub>  
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🌐-Browser-lightblue?style=for-the-badge" />  
+  <sub><b>Lightweight Custom Browser</b> built from scratch</sub>  
 </p>
 
 ---
