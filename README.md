@@ -1,6 +1,6 @@
 <!-- Header with Typing Effect -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=150&section=header&text=Hi, I'm Hassan Raza 👋&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=150&section=header&text=Hi,%20I%27m%20Hassan%20Raza%20%F0%9F%91%8B&fontSize=30&fontColor=ffffff" />
 </p>
 
 <p align="center">
