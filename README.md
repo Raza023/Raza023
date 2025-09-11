@@ -1,12 +1,8 @@
 <!-- Header with Typing Effect -->
 <h1 align="center">Hi, I'm Hassan Raza 👋</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀_IT_Professional-@Mezino-FF3CAC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💡_Innovator_&_Learner-Always-ff8800?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/☕_Java-Enthusiast-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📚_Knowledge-Sharing-success?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3CAC&center=true&vCenter=true&width=500&lines=🚀+IT+Professional+@+Mezino;💡+Innovator+%26+Lifelong+Learner;☕+Java+Enthusiast+%7C+Spring+Boot+Dev;📚+Passionate+about+Knowledge+Sharing" alt="Typing SVG" />
 </p>
-
 
 ---
 
