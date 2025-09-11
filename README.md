@@ -71,7 +71,7 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Raza023/NewsDaily">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=NewsDaily&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=NewsDaily&theme=radical " />
       </a>
       <br/>
       <b>📰 NewsDaily - Real-time news feed app with APIs</b>
