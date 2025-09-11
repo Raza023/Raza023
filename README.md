@@ -49,6 +49,38 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 
 ---
 
+<!-- Pinned Projects Showcase -->
+## 🚀 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/Raza023/bank-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=bank-app&theme=radical" />
+  </a>
+  <a href="https://github.com/Raza023/NewsDaily">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=NewsDaily&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Raza023/SpringBoot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=SpringBoot&theme=radical" />
+  </a>
+  <a href="https://github.com/Raza023/courseshare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=courseshare&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Raza023/QuranReader">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=QuranReader&theme=radical" />
+  </a>
+  <a href="https://github.com/Raza023/Browser">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=Browser&theme=radical" />
+  </a>
+</p>
+
+---
+
 <!-- GitHub Stats with Graphs -->
 ## 📊 GitHub Stats  
 
