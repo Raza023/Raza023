@@ -63,16 +63,14 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=bank-app&theme=radical" />
       </a>
       <br/>
-      <b>💳 Bank App</b>  
-      <sub>Secure banking system with Spring Boot & JWT</sub>
+      <b>💳 Bank App - <sub>Secure banking system with Spring Boot & JWT</sub> </b>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Raza023/NewsDaily">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=NewsDaily&theme=radical" />
       </a>
       <br/>
-      <b>📰 NewsDaily</b>  
-      <sub>Real-time news feed app with APIs</sub>
+      <b>📰 NewsDaily - <sub>Real-time news feed app with APIs</sub></b>
     </td>
   </tr>
 </table>
