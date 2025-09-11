@@ -1,5 +1,8 @@
 <!-- Header with Typing Effect -->
-<h1 align="center">Hi, I'm Hassan Raza 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=150&section=header&text=Hi, I'm Hassan Raza 👋&fontSize=30&fontColor=ffffff" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=1500&pause=500&color=1E90FF&center=true&vCenter=true&width=600&lines=IT+Professional+@+Mezino;Innovator+and+Lifelong+Learner;Java+%26+Spring+Boot+Developer;Passionate+about+Knowledge+Sharing" alt="Typing Animation" />
 </p>
