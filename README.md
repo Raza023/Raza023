@@ -1,29 +1,67 @@
-<!-- Add a snazzy header with your name and a catchy tagline -->
-# Hi, I'm Hassan Raza 👋
-#### Passionate IT Professional at Mezino | Innovator & Lifelong Learner
+<!-- Header with GIF / Banner -->
+<h1 align="center">Hi, I'm Hassan Raza 👋</h1>
+<h3 align="center">🚀 Passionate IT Professional @ Mezino | Innovator & Lifelong Learner</h3>
 
-<!-- Add an introduction about yourself -->
-I'm a dedicated professional contributing my skills and expertise at [Redmath](https://www.redmath.com/) partner company of [Mezino](https://www.mezino.com/). With a solid educational foundation, including a Bachelor's degree in Information Technology from [PUCIT](https://www.pucit.edu.pk/), and completion of Inter in Computer Science from [Superior College](https://www.superiorcolleges.edu.pk/), I've developed a profound understanding of the technology landscape.
+---
 
-<!-- Highlight your skills or technologies -->
-## 🔧 Expertise & Technologies
-- **Languages:** Java, C#, C++, Python
-- **Frameworks:** Spring Boot, ASP.NET MVC, Swing, Flask, React, AngularJS
-- **Tools:** Git, Docker, VS Code
-- **Cloud Platforms:** AWS, Azure
-- **Databases:** SQL Server, MySQL, Oracle
+<!-- About Me Section -->
+### 👨‍💻 About Me  
+I'm a dedicated professional contributing my skills and expertise at [Redmath](https://www.redmath.com/), a partner company of [Mezino](https://www.mezino.com/).  
+With a solid educational foundation, including a **Bachelor's degree in Information Technology** from [PUCIT](https://www.pucit.edu.pk/) and **Intermediate in Computer Science** from [Superior College](https://www.superiorcolleges.edu.pk/), I've developed a profound understanding of the technology landscape.  
 
-<!-- Showcase your GitHub stats -->
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raza023&show_icons=true&count_private=true&hide=prs&theme=radical)
+---
 
-<!-- Connect with me -->
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/1hassanraza/)
-- [Personal Website](https://linktr.ee/imhraza023)
-- Email: imhraza023@gmail.com & bitf19a023@gmail.com
+<!-- Skills Section with Icons -->
+## 🔧 Expertise & Technologies  
 
-<!-- Add a cool footer with a motivational quote -->
-> "Embrace every challenge as an opportunity for growth." - BS. Siegel
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-<!-- Feel free to add any badges or extra sections that showcase your achievements or interests -->
+**Frameworks:**  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Swing](https://img.shields.io/badge/Java%20Swing-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![AngularJS](https://img.shields.io/badge/AngularJS-%23DD0031.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+
+**Tools & Cloud:**  
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Databases:**  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+<!-- GitHub Stats with Themes -->
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raza023&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Raza023&theme=radical&hide_border=false" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+<!-- Connect Section -->
+## 🌐 Connect with Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/1hassanraza/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linktr.ee/imhraza023"><img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=linktree&logoColor=white"/></a>
+  <a href="mailto:imhraza023@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- Footer Quote -->
+<h3 align="center">✨ "Embrace every challenge as an opportunity for growth." – BS. Siegel ✨</h3>
