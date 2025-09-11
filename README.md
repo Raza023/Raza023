@@ -1,9 +1,7 @@
 <!-- Header with Typing Effect -->
 <h1 align="center">Hi, I'm Hassan Raza 👋</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3CAC&center=true&vCenter=true&random=false&width=435&lines=🚀+IT+Professional+@+Mezino;💡+Innovator+%26+Lifelong+Learner;☕+Java+Enthusiast+%7C+Spring+Boot+Dev;📚+Passionate+about+Knowledge+Sharing" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3CAC&center=true&vCenter=true&random=false&width=435&lines=🚀+IT+Professional+@+Mezino;💡+Innovator+%26+Lifelong+Learner;☕+Java+Enthusiast+%7C+Spring+Boot+Dev;📚+Passionate+about+Knowledge+Sharing" alt="Typing SVG" />
 </p>
 
 ---
