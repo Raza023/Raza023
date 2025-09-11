@@ -1,7 +1,7 @@
 <!-- Header with Typing Effect -->
 <h1 align="center">Hi, I'm Hassan Raza 👋</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF3CAC&height=200&section=header&text=Hassan%20Raza%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF3CAC&height=250&section=header&text=Hassan%20Raza%20👋%0A🚀%20IT%20Professional%20@%20Mezino%0A💡%20Innovator%20%26%20Lifelong%20Learner%0A☕%20Java%20Enthusiast%20%7C%20Spring%20Boot%20Dev%0A📚%20Passionate%20about%20Knowledge%20Sharing&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 ---
