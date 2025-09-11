@@ -152,11 +152,11 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 
 ---
 
-<h3 align="center">✨ وَقُل رَّبِّ زِدْنِي عِلْمًا ✨</h3>
+<h3 align="center">✨ وَقُلْ رَّبِّ زِدْنِیْ عِلْمًا ✨</h3>
 <h4 align="center">"And say, My Lord, increase me in knowledge." – Surah Taha 20:114</h4>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="50">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif" width="50">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/multiTask.gif" width="50">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner5.gif" width="50">
 </p>
