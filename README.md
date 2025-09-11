@@ -1,10 +1,12 @@
 <!-- Header with Typing Effect -->
 <h1 align="center">Hi, I'm Hassan Raza 👋</h1>
 <p align="center">
-  <marquee width="60%" direction="left" scrollamount="6">
-    🚀 IT Professional @ Mezino • 💡 Innovator & Lifelong Learner • ☕ Java Enthusiast | Spring Boot Dev • 📚 Passionate about Knowledge Sharing
-  </marquee>
+  <img src="https://img.shields.io/badge/🚀_IT_Professional-@Mezino-FF3CAC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💡_Innovator_&_Learner-Always-ff8800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☕_Java-Enthusiast-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📚_Knowledge-Sharing-success?style=for-the-badge" />
 </p>
+
 
 ---
 
