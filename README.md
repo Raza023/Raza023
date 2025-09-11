@@ -134,14 +134,6 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 
 ---
 
-## 🏆 Achievements & Extras  
-
-![Profile Views](https://komarev.com/ghpvc/?username=Raza023&color=blueviolet&style=flat-square)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Raza023&theme=radical&no-frame=true&margin-w=15&margin-h=15)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raza023&layout=compact&theme=radical&hide=css,html)
-
----
-
 ## 🌐 Connect with Me  
 
 <p align="center">
@@ -149,6 +141,14 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
   <a href="https://linktr.ee/imhraza023"><img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=linktree&logoColor=white"/></a>
   <a href="mailto:imhraza023@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+---
+
+## 🏆 Achievements & Extras  
+
+![Profile Views](https://komarev.com/ghpvc/?username=Raza023&color=blueviolet&style=flat-square)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Raza023&theme=radical&no-frame=true&margin-w=15&margin-h=15)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raza023&layout=compact&theme=radical&hide=css,html)
 
 ---
 
