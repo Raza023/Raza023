@@ -1,11 +1,9 @@
 <!-- Header with Typing Effect -->
 <h1 align="center">Hi, I'm Hassan Raza 👋</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF3CAC&height=200&section=header&text=Hassan%20Raza%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF3CAC&center=true&vCenter=true&random=false&width=600&lines=🚀+IT+Professional+@+Mezino;💡+Innovator+%26+Lifelong+Learner;☕+Java+Enthusiast+%7C+Spring+Boot+Dev;📚+Passionate+about+Knowledge+Sharing" />
+  <marquee width="60%" direction="left" scrollamount="6">
+    🚀 IT Professional @ Mezino • 💡 Innovator & Lifelong Learner • ☕ Java Enthusiast | Spring Boot Dev • 📚 Passionate about Knowledge Sharing
+  </marquee>
 </p>
 
 ---
