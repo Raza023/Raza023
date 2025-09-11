@@ -1,6 +1,10 @@
-<!-- Header with GIF / Banner -->
+<!-- Header with Typing Effect -->
 <h1 align="center">Hi, I'm Hassan Raza 👋</h1>
-<h3 align="center">🚀 Passionate IT Professional @ Mezino | Innovator & Lifelong Learner</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3CAC&center=true&vCenter=true&random=false&width=435&lines=🚀+IT+Professional+@+Mezino;💡+Innovator+%26+Lifelong+Learner;☕+Java+Enthusiast+%7C+Spring+Boot+Dev;📚+Passionate+about+Knowledge+Sharing" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -8,6 +12,11 @@
 ### 👨‍💻 About Me  
 I'm a dedicated professional contributing my skills and expertise at [Redmath](https://www.redmath.com/), a partner company of [Mezino](https://www.mezino.com/).  
 With a solid educational foundation, including a **Bachelor's degree in Information Technology** from [PUCIT](https://www.pucit.edu.pk/) and **Intermediate in Computer Science** from [Superior College](https://www.superiorcolleges.edu.pk/), I've developed a profound understanding of the technology landscape.  
+
+🌟 **Highlights**:  
+- 🖥️ Passionate about building scalable, efficient, and innovative software solutions.  
+- 🌍 Interested in **Cloud Computing, AI, and Full-Stack Development**.  
+- 🎯 Constant learner who enjoys solving real-world problems with code.  
 
 ---
 
@@ -42,7 +51,7 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 
 ---
 
-<!-- GitHub Stats with Themes -->
+<!-- GitHub Stats with Graphs -->
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -50,12 +59,23 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Raza023&theme=radical&hide_border=false" alt="GitHub Streak" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raza023&bg_color=141321&color=FF3CAC&line=DD2476&point=F9D423&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+<!-- Fun Badges -->
+## 🏆 Achievements & Extras  
+![Profile Views](https://komarev.com/ghpvc/?username=Raza023&color=blueviolet&style=flat-square)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Raza023&theme=radical&no-frame=true&margin-w=15&margin-h=15)
+
 ---
 
 <!-- Connect Section -->
 ## 🌐 Connect with Me  
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/1hassanraza/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://linktr.ee/imhraza023"><img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=linktree&logoColor=white"/></a>
   <a href="mailto:imhraza023@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
