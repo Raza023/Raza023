@@ -72,7 +72,7 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Raza023/SpringBoot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=SpringBoot&theme=radical&cache_bust=1" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=SpringBoot&theme=radical&cache_bust=2" />
       </a>
     </td>
     <td align="center" width="50%">
