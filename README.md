@@ -54,44 +54,87 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 
 # 🚀 Featured Projects
 
-<p align="center">
-  A curated collection of my best repositories showcasing <b>Backend, Frontend, Cloud & Full-Stack Development</b>.
-</p>
+Welcome to a curated collection of my best work.  
+These repositories demonstrate my expertise in **Backend Development, Full-Stack Engineering, Cloud Integration, and Modern Web Applications**.
 
 ---
 
-## 🏦 Backend & Enterprise Applications
+## 🏆 Project Portfolio
 
-<table>
-<tr>
-<td width="50%">
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+    <th>Repository</th>
+  </tr>
 
-### 💳 BankApp  
-🔐 Secure Banking REST API built with Spring Boot  
-- JWT Authentication  
-- Role-Based Authorization  
-- Transaction Management  
-- MySQL Integration  
+  <tr>
+    <td><b>🏦 BankApp</b></td>
+    <td>Secure banking system with authentication, transactions, and account management.</td>
+    <td>Spring Boot • JWT • JPA • MySQL</td>
+    <td>
+      <a href="https://github.com/Raza023/BankApp">
+        🔗 View Project
+      </a>
+    </td>
+  </tr>
 
-🔗 **Repository:**  
-[View Project](https://github.com/Raza023/BankApp)
+  <tr>
+    <td><b>📰 NewsDaily</b></td>
+    <td>News aggregation platform with API integration and dynamic content rendering.</td>
+    <td>Spring Boot • REST APIs • JSON</td>
+    <td>
+      <a href="https://github.com/Raza023/NewsDaily">
+        🔗 View Project
+      </a>
+    </td>
+  </tr>
 
-</td>
-<td width="50%">
+  <tr>
+    <td><b>⚙️ SpringBoot</b></td>
+    <td>Collection of production-ready Spring Boot implementations and best practices.</td>
+    <td>Spring Boot • Security • JPA • REST</td>
+    <td>
+      <a href="https://github.com/Raza023/SpringBoot">
+        🔗 View Project
+      </a>
+    </td>
+  </tr>
 
-### 🌱 SpringBoot  
-⚙️ Production-ready Spring Boot examples  
-- JPA & Hibernate  
-- REST APIs  
-- Validation  
-- Exception Handling  
-- Security  
+  <tr>
+    <td><b>📚 CourseShare</b></td>
+    <td>Platform for sharing and managing educational resources and course materials.</td>
+    <td>Full Stack • Database • REST</td>
+    <td>
+      <a href="https://github.com/Raza023/courseshare">
+        🔗 View Project
+      </a>
+    </td>
+  </tr>
 
-🔗 **Repository:**  
-[View Project](https://github.com/Raza023/SpringBoot)
+  <tr>
+    <td><b>📖 QuranReader</b></td>
+    <td>Interactive Quran reading web app with translations and user-friendly UI.</td>
+    <td>HTML • CSS • JavaScript • MySQL</td>
+    <td>
+      <a href="https://github.com/Raza023/QuranReader">
+        🔗 View Project
+      </a>
+    </td>
+  </tr>
 
-</td>
-</tr>
+  <tr>
+    <td><b>🌐 Browser</b></td>
+    <td>Custom lightweight browser implementation demonstrating networking fundamentals.</td>
+    <td>Java • Networking • UI</td>
+    <td>
+      <a href="https://github.com/Raza023/Browser">
+        🔗 View Project
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 ---
