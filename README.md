@@ -60,52 +60,33 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Raza023/BankApp">
-        <h3>🏦 BankApp</h3>
-        <p><b>Spring Boot Banking Application with secure APIs</b></p>
-      </a>
+    <td align="left" width="50%" valign="top">
+### 🏦 [BankApp](https://github.com/Raza023/BankApp)
+Spring Boot banking application featuring secure REST APIs, JWT authentication, and database integration.
+<br/>
+### 📰 [NewsDaily](https://github.com/Raza023/NewsDaily)
+Dynamic news web application with real-time content rendering and clean UI design.
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Raza023/NewsDaily">
-        <h3>📰 NewsDaily</h3>
-        <p><b>Dynamic News Web Application</b></p>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>🌱 SpringBoot</h3>
-      <a href="https://github.com/Raza023/SpringBoot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=SpringBoot&theme=radical&cache_bust=10" />
-      </a>
-      <p><b>Production-Ready Spring Boot Learning & APIs</b></p>
-    </td>
-    <td align="center">
-      <h3>🎓 CourseShare</h3>
-      <a href="https://github.com/Raza023/courseshare">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=courseshare&theme=radical&cache_bust=10" />
-      </a>
-      <p><b>Full-Stack Course Sharing Platform</b></p>
+    <td align="left" width="50%" valign="top">
+### 🌱 [SpringBoot](https://github.com/Raza023/SpringBoot)
+Production-ready Spring Boot learning repository covering REST APIs, JPA, validation, and security.
+<br/>
+### 🎓 [CourseShare](https://github.com/Raza023/courseshare)
+Full-stack course sharing platform with backend APIs and responsive frontend.
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <h3>📖 QuranReader</h3>
-      <a href="https://github.com/Raza023/QuranReader">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=QuranReader&theme=radical&cache_bust=10" />
-      </a>
-      <p><b>Interactive Quran Reader Web App</b></p>
+    <td align="left" valign="top">
+### 📖 [QuranReader](https://github.com/Raza023/QuranReader)
+Interactive Quran reader web app with clean UI and structured content rendering.
     </td>
-    <td align="center">
-      <h3>🌐 Browser</h3>
-      <a href="https://github.com/Raza023/Browser">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=Browser&theme=radical&cache_bust=10" />
-      </a>
-      <p><b>Custom Lightweight Browser Implementation</b></p>
+    <td align="left" valign="top">
+### 🌐 [Browser](https://github.com/Raza023/Browser)
+Custom lightweight browser implementation demonstrating core web rendering concepts.
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📊 GitHub Stats  
