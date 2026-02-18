@@ -60,36 +60,36 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Raza023/BankApp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=BankApp&theme=radical&cache_bust=1" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=BankApp&theme=radical&cache_bust=2" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Raza023/NewsDaily">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=NewsDaily&theme=radical&cache_bust=1" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=NewsDaily&theme=radical&cache_bust=2" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Raza023/SpringBoot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=SpringBoot&theme=radical&cache_bust=2" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=SpringBoot&theme=radical&cache_bust=3" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Raza023/courseshare">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=courseshare&theme=radical&cache_bust=1" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=courseshare&theme=radical&cache_bust=2" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Raza023/QuranReader">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=QuranReader&theme=radical&cache_bust=1" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=QuranReader&theme=radical&cache_bust=2" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Raza023/Browser">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=Browser&theme=radical&cache_bust=1" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=Browser&theme=radical&cache_bust=2" />
       </a>
     </td>
   </tr>
