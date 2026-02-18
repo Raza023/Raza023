@@ -61,7 +61,8 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 <table align="center" width="100%">
   <tr>
     <td align="left" width="50%" valign="top">
-### 🏦 [BankApp](https://github.com/Raza023/BankApp)
+### 🏦 
+      [BankApp](https://github.com/Raza023/BankApp)
 Spring Boot banking application featuring secure REST APIs, JWT authentication, and database integration.
 <br/>
 ### 📰 [NewsDaily](https://github.com/Raza023/NewsDaily)
