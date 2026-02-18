@@ -146,6 +146,9 @@ These repositories demonstrate my expertise in **Backend Development, MVC framew
     <td style="padding:0;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raza023&theme=dracula" alt="Profile Summary" height="165"/>
     </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raza023&theme=dracula" alt="Most Commits by Language" height="165"/>
+    </td>
   </tr>
   <tr>
     <td style="padding:0;">
