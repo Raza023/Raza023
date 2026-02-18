@@ -169,8 +169,7 @@ These repositories demonstrate my expertise in **Backend Development, MVC framew
 ## 🏆 Achievements & Extras  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Raza023&color=blueviolet&style=flat-square)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raza023&layout=compact&theme=radical&hide=css,html)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Raza023&theme=radical&no-frame=true&margin-w=15&margin-h=15)  
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raza023&theme=dracula) 
 
 ---
 
