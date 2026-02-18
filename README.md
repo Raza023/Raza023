@@ -52,49 +52,62 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 
 ---
 
-## 🚀 Featured Projects  
+# 🚀 Featured Projects
 
-✨ A curated collection of my best repositories showcasing **backend, frontend, cloud, and full-stack projects**.  
-  <br/>
+✨ A curated collection of my best repositories showcasing **backend, frontend, cloud, and full-stack development**.
+
+<br/>
+
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
+      <h3>🏦 BankApp</h3>
       <a href="https://github.com/Raza023/BankApp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=BankApp&theme=radical&cache_bust=2" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=BankApp&theme=radical&cache_bust=10" />
       </a>
+      <p><b>Spring Boot Banking Application with secure APIs</b></p>
     </td>
     <td align="center" width="50%">
+      <h3>📰 NewsDaily</h3>
       <a href="https://github.com/Raza023/NewsDaily">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=NewsDaily&theme=radical&cache_bust=2" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=NewsDaily&theme=radical&cache_bust=10" />
       </a>
+      <p><b>Dynamic News Web Application</b></p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center">
+      <h3>🌱 SpringBoot</h3>
       <a href="https://github.com/Raza023/SpringBoot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=SpringBoot&theme=radical&cache_bust=3" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=SpringBoot&theme=radical&cache_bust=10" />
       </a>
+      <p><b>Production-Ready Spring Boot Learning & APIs</b></p>
     </td>
-    <td align="center" width="50%">
+    <td align="center">
+      <h3>🎓 CourseShare</h3>
       <a href="https://github.com/Raza023/courseshare">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=courseshare&theme=radical&cache_bust=2" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=courseshare&theme=radical&cache_bust=10" />
       </a>
+      <p><b>Full-Stack Course Sharing Platform</b></p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center">
+      <h3>📖 QuranReader</h3>
       <a href="https://github.com/Raza023/QuranReader">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=QuranReader&theme=radical&cache_bust=2" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=QuranReader&theme=radical&cache_bust=10" />
       </a>
+      <p><b>Interactive Quran Reader Web App</b></p>
     </td>
-    <td align="center" width="50%">
+    <td align="center">
+      <h3>🌐 Browser</h3>
       <a href="https://github.com/Raza023/Browser">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=Browser&theme=radical&cache_bust=2" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=Browser&theme=radical&cache_bust=10" />
       </a>
+      <p><b>Custom Lightweight Browser Implementation</b></p>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Stats  
