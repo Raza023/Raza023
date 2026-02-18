@@ -139,80 +139,12 @@ These repositories demonstrate my expertise in **Backend Development, Full-Stack
 
 ---
 
-## 🌍 Full-Stack & Web Applications
-
-<table>
-<tr>
-<td width="50%">
-
-### 📰 NewsDaily  
-🗞️ Modern News Application  
-- REST API Integration  
-- Responsive UI  
-- Dynamic Content Rendering  
-- Clean Frontend Architecture  
-
-🔗 **Repository:**  
-[View Project](https://github.com/Raza023/NewsDaily)
-
-</td>
-<td width="50%">
-
-### 🎓 CourseShare  
-📚 Platform for sharing and accessing courses  
-- Secure Backend  
-- Structured Course Management  
-- Full-Stack Integration  
-
-🔗 **Repository:**  
-[View Project](https://github.com/Raza023/courseshare)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📖 Personal & Utility Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 📖 QuranReader  
-🕌 Islamic Web Application  
-- Quran Reading Interface  
-- Word-by-Word Translation  
-- Clean & Interactive UI  
-- Built with HTML, CSS & JS  
-
-🔗 **Repository:**  
-[View Project](https://github.com/Raza023/QuranReader)
-
-</td>
-<td width="50%">
-
-### 🌐 Browser  
-🧭 Custom Lightweight Browser  
-- Search Functionality  
-- Clean Interface  
-- Practical UI Concepts  
-
-🔗 **Repository:**  
-[View Project](https://github.com/Raza023/Browser)
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 GitHub Stats  
 
 <table align="center">
   <tr>
     <td style="padding:0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Raza023&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" height="165"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raza023&theme=dracula" alt="Profile Summary" height="165"/>
     </td>
     <td style="padding:0;">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Raza023&theme=radical&hide_border=false" alt="GitHub Streak" height="165"/>
