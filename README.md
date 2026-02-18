@@ -54,37 +54,112 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 
 # 🚀 Featured Projects
 
-✨ A curated collection of my best repositories showcasing **backend, frontend, cloud, and full-stack development**.
+<p align="center">
+  A curated collection of my best repositories showcasing <b>Backend, Frontend, Cloud & Full-Stack Development</b>.
+</p>
 
-<br/>
+---
 
-<table align="center" width="100%">
-  <tr>
-    <td align="left" width="50%" valign="top">
-[🏦 BankApp](https://github.com/Raza023/BankApp)
-Spring Boot banking application featuring secure REST APIs, JWT authentication, and database integration.
-<br/>
-[📰 NewsDaily](https://github.com/Raza023/NewsDaily)
-Dynamic news web application with real-time content rendering and clean UI design.
-    </td>
-    <td align="left" width="50%" valign="top">
-### 🌱 [SpringBoot](https://github.com/Raza023/SpringBoot)
-Production-ready Spring Boot learning repository covering REST APIs, JPA, validation, and security.
-<br/>
-### 🎓 [CourseShare](https://github.com/Raza023/courseshare)
-Full-stack course sharing platform with backend APIs and responsive frontend.
-    </td>
-  </tr>
-  <tr>
-    <td align="left" valign="top">
-### 📖 [QuranReader](https://github.com/Raza023/QuranReader)
-Interactive Quran reader web app with clean UI and structured content rendering.
-    </td>
-    <td align="left" valign="top">
-### 🌐 [Browser](https://github.com/Raza023/Browser)
-Custom lightweight browser implementation demonstrating core web rendering concepts.
-    </td>
-  </tr>
+## 🏦 Backend & Enterprise Applications
+
+<table>
+<tr>
+<td width="50%">
+
+### 💳 BankApp  
+🔐 Secure Banking REST API built with Spring Boot  
+- JWT Authentication  
+- Role-Based Authorization  
+- Transaction Management  
+- MySQL Integration  
+
+🔗 **Repository:**  
+[View Project](https://github.com/Raza023/BankApp)
+
+</td>
+<td width="50%">
+
+### 🌱 SpringBoot  
+⚙️ Production-ready Spring Boot examples  
+- JPA & Hibernate  
+- REST APIs  
+- Validation  
+- Exception Handling  
+- Security  
+
+🔗 **Repository:**  
+[View Project](https://github.com/Raza023/SpringBoot)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌍 Full-Stack & Web Applications
+
+<table>
+<tr>
+<td width="50%">
+
+### 📰 NewsDaily  
+🗞️ Modern News Application  
+- REST API Integration  
+- Responsive UI  
+- Dynamic Content Rendering  
+- Clean Frontend Architecture  
+
+🔗 **Repository:**  
+[View Project](https://github.com/Raza023/NewsDaily)
+
+</td>
+<td width="50%">
+
+### 🎓 CourseShare  
+📚 Platform for sharing and accessing courses  
+- Secure Backend  
+- Structured Course Management  
+- Full-Stack Integration  
+
+🔗 **Repository:**  
+[View Project](https://github.com/Raza023/courseshare)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📖 Personal & Utility Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📖 QuranReader  
+🕌 Islamic Web Application  
+- Quran Reading Interface  
+- Word-by-Word Translation  
+- Clean & Interactive UI  
+- Built with HTML, CSS & JS  
+
+🔗 **Repository:**  
+[View Project](https://github.com/Raza023/QuranReader)
+
+</td>
+<td width="50%">
+
+### 🌐 Browser  
+🧭 Custom Lightweight Browser  
+- Search Functionality  
+- Clean Interface  
+- Practical UI Concepts  
+
+🔗 **Repository:**  
+[View Project](https://github.com/Raza023/Browser)
+
+</td>
+</tr>
 </table>
 
 ---
