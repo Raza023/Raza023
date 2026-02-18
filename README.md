@@ -61,11 +61,12 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <h3>🏦 BankApp</h3>
+      
       <a href="https://github.com/Raza023/BankApp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raza023&repo=BankApp&theme=radical&cache_bust=10" />
+        <h3>🏦 BankApp</h3>
+        <p><b>Spring Boot Banking Application with secure APIs</b></p>
       </a>
-      <p><b>Spring Boot Banking Application with secure APIs</b></p>
+      
     </td>
     <td align="center" width="50%">
       <h3>📰 NewsDaily</h3>
