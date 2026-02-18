@@ -61,11 +61,10 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 <table align="center" width="100%">
   <tr>
     <td align="left" width="50%" valign="top">
-### 🏦 
-      [BankApp](https://github.com/Raza023/BankApp)
+[🏦 BankApp](https://github.com/Raza023/BankApp)
 Spring Boot banking application featuring secure REST APIs, JWT authentication, and database integration.
 <br/>
-### 📰 [NewsDaily](https://github.com/Raza023/NewsDaily)
+[📰 NewsDaily](https://github.com/Raza023/NewsDaily)
 Dynamic news web application with real-time content rendering and clean UI design.
     </td>
     <td align="left" width="50%" valign="top">
