@@ -83,7 +83,7 @@ These repositories demonstrate my expertise in **Backend Development, Full-Stack
   <tr>
     <td><b>📰 NewsDaily</b></td>
     <td>News aggregation platform with API integration and dynamic content rendering.</td>
-    <td>Spring Boot • REST APIs • JSON</td>
+    <td>Spring Boot • REST APIs • H2 DB</td>
     <td>
       <a href="https://github.com/Raza023/NewsDaily">
         🔗 View Project
@@ -105,7 +105,7 @@ These repositories demonstrate my expertise in **Backend Development, Full-Stack
   <tr>
     <td><b>📚 CourseShare</b></td>
     <td>Platform for sharing and managing educational resources and course materials.</td>
-    <td>Full Stack • Database • REST</td>
+    <td>ASP.NET • MVC • Full Stack • Database • REST</td>
     <td>
       <a href="https://github.com/Raza023/courseshare">
         🔗 View Project
@@ -116,7 +116,7 @@ These repositories demonstrate my expertise in **Backend Development, Full-Stack
   <tr>
     <td><b>📖 QuranReader</b></td>
     <td>Interactive Quran reading web app with translations and user-friendly UI.</td>
-    <td>HTML • CSS • JavaScript • MySQL</td>
+    <td>HTML • CSS • JavaScript</td>
     <td>
       <a href="https://github.com/Raza023/QuranReader">
         🔗 View Project
@@ -127,7 +127,7 @@ These repositories demonstrate my expertise in **Backend Development, Full-Stack
   <tr>
     <td><b>🌐 Browser</b></td>
     <td>Custom lightweight browser implementation demonstrating networking fundamentals.</td>
-    <td>Java • Networking • UI</td>
+    <td>Java • Swing • UI</td>
     <td>
       <a href="https://github.com/Raza023/Browser">
         🔗 View Project
