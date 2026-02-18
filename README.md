@@ -72,7 +72,7 @@ These repositories demonstrate my expertise in **Backend Development, Full-Stack
   <tr>
     <td><b>🏦 BankApp</b></td>
     <td>Secure banking system with authentication, transactions, and account management.</td>
-    <td>Spring Boot • JWT • JPA • MySQL</td>
+    <td>Spring Boot • JWT • JPA • H2 DB</td>
     <td>
       <a href="https://github.com/Raza023/BankApp">
         🔗 View Project
