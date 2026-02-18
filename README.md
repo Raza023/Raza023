@@ -55,7 +55,7 @@ With a solid educational foundation, including a **Bachelor's degree in Informat
 # 🚀 Featured Projects
 
 Welcome to a curated collection of my best work.  
-These repositories demonstrate my expertise in **Backend Development, Full-Stack Engineering, Cloud Integration, and Modern Web Applications**.
+These repositories demonstrate my expertise in **Backend Development, MVC frameworks, and Modern Web Applications**.
 
 ---
 
